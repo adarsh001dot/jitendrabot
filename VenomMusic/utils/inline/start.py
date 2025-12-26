@@ -31,7 +31,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text="sσυʀᴄє ᴄσᴅє", url=f"https://github.com/venompratap/VenomMusic.git"),
+            InlineKeyboardButton(text="ᴄʜєᴀᴘ ʜσsᴛɪɴɢ", url=f"https://venomhost.in"),
         ],
     ]
     return buttons
